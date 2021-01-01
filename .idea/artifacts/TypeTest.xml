@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TypeTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/TypeTest</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="TypeTest" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.00" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="TypeSpeed.jar">
+        <element id="module-output" name="Typespeed" />
+      </element>
+    </root>
+  </artifact>
+</component>
